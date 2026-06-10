@@ -1,7 +1,0 @@
-cd /path/to/your/project
-git init
-git add backtest.py test_backtest.py requirements.txt README.md results.png .gitignore
-git commit -m "Initial commit: CL futures SMA crossover backtest"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/futures-backtest.git
-git push -u origin main
